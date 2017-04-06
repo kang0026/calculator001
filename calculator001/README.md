@@ -1,7 +1,7 @@
 # calculator001
 Created a GPA calculator that allows stuents to calculate their current and cumulative GPA
 
-Current Feaures:
+Current Features:
 
 Implemented the GPA-to-Letter-Grade converter to enable users to see their letter grades
 
